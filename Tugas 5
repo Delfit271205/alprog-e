@@ -1,0 +1,12 @@
+NIM ='24241153'
+NIM AWAL=24
+NIM AKHIR = 85
+
+
+
+
+ALAS = NIM AKHIR
+TINGGI = NIM AWAL
+
+HASIL = 0.5 * ALAS* TINGGI
+print(f"hasil dari 1/2 x {alas} x {tinggi} adalah = {hasil}")
